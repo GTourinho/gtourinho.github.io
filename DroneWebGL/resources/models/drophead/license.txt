@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sierp 5.7HPE Drophead (T104)
+* source:	https://sketchfab.com/3d-models/sierp-57hpe-drophead-t104-334fe40d3ed84a9c971d04a0f556cb0b
+* author:	bileyg (https://sketchfab.com/bileyg)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sierp 5.7HPE Drophead (T104)" (https://sketchfab.com/3d-models/sierp-57hpe-drophead-t104-334fe40d3ed84a9c971d04a0f556cb0b) by bileyg (https://sketchfab.com/bileyg) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
