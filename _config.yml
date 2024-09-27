@@ -1,1 +1,32 @@
-theme: jekyll-theme-slate
+# This is the default format.
+# For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink: /:categories/:year/:month/:day/:title
+
+exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md", "License.md"]
+highlighter: rouge
+
+title : GTourinho
+author : GTourinho
+name : Gabriel Tourinho
+email : gabrieltourinhob@gmail.com
+github : gtourinho
+feedburner : nil
+
+production_url : https://gtourinho.github.io/
+
+markdown: kramdown
+
+JB :
+  version : 0.3.0
+  BASE_PATH : https://gtourinho.github.io/
+  archive_path: nil
+  categories_path : nil
+  tags_path : nil
+  atom_path : nil
+  rss_path : nil
+  comments :
+    provider : false
+  analytics :
+    provider : false
+  sharing :
+    provider : false
